@@ -73,7 +73,7 @@ div {
 @media (max-width: 767px) {
 	div
  {
-		width: 90%;
+		width: 100%;
 	}
 }
 
@@ -83,7 +83,6 @@ p {
 	top: 30px;
 	overflow: hidden;
 	padding: 1px;
-	height: auto;
 }
 
 #Chicken {
